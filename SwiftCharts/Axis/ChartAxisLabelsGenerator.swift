@@ -6,6 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
+import UIKit
 import Foundation
 
 /// Generates labels for an axis value. Note: Supports only one label per axis value (1 element array)

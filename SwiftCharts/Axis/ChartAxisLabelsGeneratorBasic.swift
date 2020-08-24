@@ -6,6 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
+import UIKit
 import Foundation
 
 /// Generates a single unformatted label for scalar

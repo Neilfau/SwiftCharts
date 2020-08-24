@@ -6,6 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
+import UIKit
 import Foundation
 
 /// Needed for common stored properties which are not possible in the extension (without workarounds)

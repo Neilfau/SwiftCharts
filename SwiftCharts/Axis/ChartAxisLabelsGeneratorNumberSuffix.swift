@@ -6,6 +6,7 @@
 //  Copyright © 2016 ivanschuetz. All rights reserved.
 //
 
+import UIKit
 import Foundation
 
 public enum ChartAxisLabelNumberSuffixUnit {
